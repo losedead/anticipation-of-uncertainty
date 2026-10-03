@@ -1,21 +1,98 @@
-MIT License
+ANTICIPATION OF UNCERTAINTY · NONCOMMERCIAL LICENSE
+不确定性前瞻 · 非商业使用许可
 
-Copyright (c) 2026 losedead
+Copyright (c) 2026 losedead. All rights reserved.
+版权所有 (c) 2026 losedead。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+═══════════════════════════════════════════════════════════
+ 中文版（以英文版为准）
+═══════════════════════════════════════════════════════════
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+一、授权范围
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+在遵守本许可全部条款的前提下，您可以在**非商业目的**范围内
+免费使用、复制、修改和再分发本软件及其源代码，包括：
+
+  1. 个人学习与研究；
+  2. 教学与非营利教育活动；
+  3. 学术研究（含论文、课程作业、竞赛作品）；
+  4. 自建部署供自己或家人朋友免费使用。
+
+二、明确禁止
+
+**未经版权所有者事先书面许可，您不得**将本软件（含修改版、
+衍生作品）用于任何商业目的，包括但不限于：
+
+  1. 出售、出租、许可或转授权本软件；
+  2. 将本软件或其功能作为付费产品、付费服务或增值服务
+     的一部分对外提供（含 SaaS、托管、咨询、定制开发）；
+  3. 在企业或组织的内部业务中使用本软件；
+  4. 在广告、商业演示或任何以盈利为目的的场景中展示或
+     运行本软件；
+  5. 将本软件的全部或实质性部分用于任何产生收入或报酬
+     的活动。
+
+三、保留与条件
+
+  1. 任何再分发（无论是否修改）必须保留本许可全文、
+     上述版权声明与"禁止商用"条款；
+  2. 本软件按"现状"提供，不附带任何明示或默示的担保。
+     作者不对因使用本软件而产生的任何损失承担责任；
+  3. 本软件产生的预测内容仅供研究与决策参考，不构成
+     投资、医疗、法律或其他专业建议。
+
+四、商业授权
+
+如需商业使用，请联系版权所有者获取书面商业授权：
+GitHub → https://github.com/losedead
+
+═══════════════════════════════════════════════════════════
+ English (authoritative version)
+═══════════════════════════════════════════════════════════
+
+1. GRANT
+
+Subject to all terms below, you are granted a free license to
+use, copy, modify, and redistribute this software and its source
+code for NONCOMMERCIAL purposes only, including:
+
+  1. personal learning and research;
+  2. teaching and non-profit educational activities;
+  3. academic work (papers, coursework, competition entries);
+  4. self-hosted deployments for yourself, family, or friends,
+     free of charge.
+
+2. PROHIBITIONS
+
+**Without prior written permission from the copyright holder,
+you may NOT** use the software (including modified versions and
+derivative works) for any commercial purpose, including but not
+limited to:
+
+  1. selling, renting, licensing, or sublicensing the software;
+  2. offering the software or its functionality as part of a
+     paid product, paid service, or value-added service
+     (including SaaS, hosting, consulting, or custom
+     development);
+  3. internal use in a business or organization;
+  4. displaying or running the software in advertising,
+     commercial demos, or any profit-oriented context;
+  5. using the software or its substantial parts in any
+     activity that generates revenue or compensation.
+
+3. TERMS AND CONDITIONS
+
+  1. Any redistribution (with or without modification) must
+     retain this license in full, including the copyright
+     notice and the noncommercial restriction above;
+  2. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+     KIND, EXPRESS OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE
+     FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE;
+  3. Predictions produced by this software are for research
+     and reference only. They do NOT constitute investment,
+     medical, legal, or other professional advice.
+
+4. COMMERCIAL LICENSING
+
+For commercial use, contact the copyright holder for a written
+commercial license: GitHub → https://github.com/losedead

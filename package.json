@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "description": "Anticipation of Uncertainty · 带认识论标注与复盘校准的预测引擎",
+  "license": "UNLICENSED",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"

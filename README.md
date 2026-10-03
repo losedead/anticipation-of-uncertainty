@@ -104,4 +104,9 @@ tools/metrics-test.mjs 复盘度量单测（62 项）
 
 ## License
 
-[MIT](LICENSE)
+**非商业许可 / Noncommercial License** —— 详见 [LICENSE](LICENSE)。
+
+- ✅ 个人学习、研究、教学、学术竞赛、自建自用部署：**免费**
+- ❌ 任何商业用途（出售、SaaS/托管/付费服务、企业内部业务、盈利性展示）：**禁止**，需联系作者获取书面商业授权
+
+This project is licensed for **noncommercial use only**. Commercial use (selling, paid services, SaaS, internal business use) requires prior written permission — see [LICENSE](LICENSE).
